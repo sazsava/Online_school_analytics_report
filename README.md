@@ -2,7 +2,7 @@
 *Первая курсовая работа по начальной аналитике*
 ***pandas, matplotlib***
 ***
-***
+<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kiva.org_logo_2016.svg/640px-Kiva.org_logo_2016.svg.png](https://vananservices.com/blog/wp-content/uploads/2022/05/8-Reasons-Why-Online-Courses-Are-Better-Than-Traditional-Classes.png)" width="500" height="200" />
 ## 1.1. Задача
 ***
 На основании имеющихся данных необходимо было подготовить аналитический отчет, который в дальнейшем поможет продюсерам образовательных программ эффективно выстраивать стратегию по модернизированию и улучшению курсов. 
