@@ -1,5 +1,6 @@
 # Аналитика для образовательной платформы с онлайн-курсами
 *Первая курсовая работа по начальной аналитике*
+
 ***pandas, matplotlib***
 ***
 <img src="https://img.freepik.com/free-vector/online-education-learning-set-isolated-icons-characters-teachers-tutors-with-computer-images-vector-illustration_1284-67931.jpg?t=st=1743082541~exp=1743086141~hmac=63a74460b27a02e30fad787a430f304063dc2e135f00d8a6014759a8600a2bf6&w=1380" width="626" height="209" />
