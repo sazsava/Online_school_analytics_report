@@ -2,7 +2,7 @@
 *Первая курсовая работа по начальной аналитике*
 ***pandas, matplotlib***
 ***
-<img src="https://img.freepik.com/free-vector/online-tutorials-concept_52683-37480.jpg?t=st=1743082175~exp=1743085775~hmac=a9f5c1efe8beac1ece8977ec746ed1de50594877bb3ab2d5fb056e8308af49d2&w=996" width="626" height="626" />
+<img src="https://img.freepik.com/free-vector/data-analytics-online-video-tutorial-statistics-internet-presentation-business-development-course-webinar-business-analysis-corporate-seminar_335657-777.jpg?t=st=1743082378~exp=1743085978~hmac=455cea981b6e0a9006a9ba4e1a48e7b17abb33d9ce0d923a21979da27aa98cc6&w=740" width="626" height="626" />
 ## 1.1. Задача
 ***
 На основании имеющихся данных необходимо было подготовить аналитический отчет, который в дальнейшем поможет продюсерам образовательных программ эффективно выстраивать стратегию по модернизированию и улучшению курсов. 
