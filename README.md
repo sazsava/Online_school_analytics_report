@@ -18,8 +18,8 @@
 
 ## 1.2. Набор данных
 ***
-Данные приложены в виде архива в данном репозитории:
-[https://drive.google.com/file/d/1gTMkmMmWnfEwaKdCD7w91iC0x9OYt3A5/view](https://github.com/sazsava/Online_school_analytics_report/blob/main/courses_data.zip)
+Данные приложены в виде архива в данном репозитории: 
+[ссылка на архив](https://github.com/sazsava/Online_school_analytics_report/blob/main/courses_data.zip)
 ***
 
 Все таблицы:
