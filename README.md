@@ -2,7 +2,7 @@
 *Первая курсовая работа по начальной аналитике*
 ***pandas, matplotlib***
 ***
-<img src="https://img.freepik.com/free-vector/data-analytics-online-video-tutorial-statistics-internet-presentation-business-development-course-webinar-business-analysis-corporate-seminar_335657-777.jpg?t=st=1743082378~exp=1743085978~hmac=455cea981b6e0a9006a9ba4e1a48e7b17abb33d9ce0d923a21979da27aa98cc6&w=740" width="626" height="626" />
+<img src="https://img.freepik.com/free-vector/online-education-learning-set-isolated-icons-characters-teachers-tutors-with-computer-images-vector-illustration_1284-67931.jpg?t=st=1743082541~exp=1743086141~hmac=63a74460b27a02e30fad787a430f304063dc2e135f00d8a6014759a8600a2bf6&w=1380" width="626" height="209" />
 ## 1.1. Задача
 ***
 На основании имеющихся данных необходимо было подготовить аналитический отчет, который в дальнейшем поможет продюсерам образовательных программ эффективно выстраивать стратегию по модернизированию и улучшению курсов. 
@@ -20,43 +20,34 @@
 
 Все таблицы:
 1) courses.csv содержит следующие значения:
-
-     id – идентификатор курса
-     title – название курса
-     field – сфера, к которой относится курс
-
+- id – идентификатор курса
+- title – название курса
+- field – сфера, к которой относится курс
 
 2) students.csv содержит следующие значения:
-
-     id – идентификатор студента
-     city – город студента
-     birthday – день рождения студента
-
+- id – идентификатор студента
+- city – город студента
+- birthday – день рождения студента
 
 3) course_contents.csv содержит следующие значения:
-
-     course_id – идентификатор курса
-     module_number – номер модуля
-     module_title – название модуля
-     lesson_number – номер урока
-     lesson_title – название урока
-     lesson_token – токен урока
-     is_video – наличие видео (true/false)
-     is_homework – наличие домашней работы (true/false)
-
+- course_id – идентификатор курса
+- module_number – номер модуля
+- module_title – название модуля
+- lesson_number – номер урока
+- lesson_title – название урока
+- lesson_token – токен урока
+- is_video – наличие видео (true/false)
+- is_homework – наличие домашней работы (true/false)
 
 4) progresses.csv содержит следующие значения:
-
-     id – идентификатор прогресса
-     student_id – идентификатор студента
-     course_id – идентификатор курса
-
+- id – идентификатор прогресса
+- student_id – идентификатор студента
+- course_id – идентификатор курса
 
 5) progress_phases.csv содержит следующие значения:
-
-     progress_id – идентификатор прогресса
-     module_number – номер модуля
-     lesson_number – номер урока
-     status – статус прохождения урока
-     start_date – дата начала
-     finish_date – дата окончания
+- progress_id – идентификатор прогресса
+- module_number – номер модуля
+- lesson_number – номер урока
+- status – статус прохождения урока
+- start_date – дата начала
+- finish_date – дата окончания
